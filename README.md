@@ -48,11 +48,3 @@ Launch:
 
 Bash
 streamlit run app.py
-💼 Resume Bullet Points
-AlgoGenie — Autonomous DSA Solution Engine | Python, AutoGen, Docker, Streamlit, Groq API
-
-Engineered a multi-agent system utilizing DockerCommandLineCodeExecutor to autonomously solve and verify DSA problems in a secured, isolated sandbox.
-
-Implemented a RoundRobinGroupChat orchestration logic allowing for iterative self-debugging between a Solver Agent and an Execution Agent.
-
-Architected a real-time Streamlit dashboard that streams agent dialogue and execution logs, leveraging Llama-3.3 via Groq for high-speed reasoning.
